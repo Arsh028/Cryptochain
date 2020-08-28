@@ -1,0 +1,22 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlyArsh/Cryptochain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlyArsh/Cryptochain/issues"
+  },
+  "homepage": "https://github.com/onlyArsh/Cryptochain#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
